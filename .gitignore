@@ -11,3 +11,4 @@ wheels/
 .env
 test.py
 python-version
+.gitignore
