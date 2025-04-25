@@ -88,6 +88,6 @@ curl -X POST http://localhost:8000/create-agent \
 ## 🧑‍💻 Author
 
 Made with ❤️ by Ankur Pal  
-[LinkedIn](https://www.linkedin.com/in/ankur-pal) • [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/ankur-pal) • [GitHub](https://github.com/ItsAnkurPal)
 
 ---
